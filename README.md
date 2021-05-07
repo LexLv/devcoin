@@ -1,2 +1,2 @@
 # devcoin
-devcoin
+devcoin--test
